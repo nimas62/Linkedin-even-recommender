@@ -1,1 +1,1 @@
-# Linkedin-even-recommender
+# Linkedin-event-recommender
